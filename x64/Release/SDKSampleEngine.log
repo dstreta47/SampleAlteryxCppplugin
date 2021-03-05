@@ -1,0 +1,23 @@
+﻿  SampleInput.cpp
+  SampleOutput.cpp
+  SampleSubtotal.cpp
+  SampleSummary.cpp
+  stdafx.cpp
+  Generating Code...
+  AlteryxSDK_x64.lib(MiniXmlParser.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+     Creating library E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\SDKSampleEngine.lib and object E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\SDKSampleEngine.exp
+  Generating code
+  Finished generating code
+AlteryxSDK_x64.lib(MiniXmlParser.obj) : warning LNK4099: PDB 'AlteryxSDKBuilder.pdb' was not found with 'AlteryxSDK_x64.lib(MiniXmlParser.obj)' or at 'E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\AlteryxSDKBuilder.pdb'; linking object as if no debug info
+AlteryxSDK_x64.lib(Record.obj) : warning LNK4099: PDB 'AlteryxSDKBuilder.pdb' was not found with 'AlteryxSDK_x64.lib(Record.obj)' or at 'E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\AlteryxSDKBuilder.pdb'; linking object as if no debug info
+AlteryxSDK_x64.lib(RecordInfo.obj) : warning LNK4099: PDB 'AlteryxSDKBuilder.pdb' was not found with 'AlteryxSDK_x64.lib(RecordInfo.obj)' or at 'E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\AlteryxSDKBuilder.pdb'; linking object as if no debug info
+AlteryxSDK_x64.lib(FieldBase.obj) : warning LNK4099: PDB 'AlteryxSDKBuilder.pdb' was not found with 'AlteryxSDK_x64.lib(FieldBase.obj)' or at 'E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\AlteryxSDKBuilder.pdb'; linking object as if no debug info
+AlteryxSDK_x64.lib(RecordCopier.obj) : warning LNK4099: PDB 'AlteryxSDKBuilder.pdb' was not found with 'AlteryxSDK_x64.lib(RecordCopier.obj)' or at 'E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\AlteryxSDKBuilder.pdb'; linking object as if no debug info
+AlteryxSDK_x64.lib(stdafx.obj) : warning LNK4099: PDB 'AlteryxSDKBuilder.pdb' was not found with 'AlteryxSDK_x64.lib(stdafx.obj)' or at 'E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\AlteryxSDKBuilder.pdb'; linking object as if no debug info
+AlteryxSDK_x64.lib(FieldSchema.obj) : warning LNK4099: PDB 'AlteryxSDKBuilder.pdb' was not found with 'AlteryxSDK_x64.lib(FieldSchema.obj)' or at 'E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\AlteryxSDKBuilder.pdb'; linking object as if no debug info
+AlteryxSDK_x64.lib(FieldType.obj) : warning LNK4099: PDB 'AlteryxSDKBuilder.pdb' was not found with 'AlteryxSDK_x64.lib(FieldType.obj)' or at 'E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\AlteryxSDKBuilder.pdb'; linking object as if no debug info
+AlteryxSDK_x64.lib(FieldBlob.obj) : warning LNK4099: PDB 'AlteryxSDKBuilder.pdb' was not found with 'AlteryxSDK_x64.lib(FieldBlob.obj)' or at 'E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\AlteryxSDKBuilder.pdb'; linking object as if no debug info
+AlteryxSDK_x64.lib(FieldBool.obj) : warning LNK4099: PDB 'AlteryxSDKBuilder.pdb' was not found with 'AlteryxSDK_x64.lib(FieldBool.obj)' or at 'E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\AlteryxSDKBuilder.pdb'; linking object as if no debug info
+AlteryxSDK_x64.lib(FieldDateTime.obj) : warning LNK4099: PDB 'AlteryxSDKBuilder.pdb' was not found with 'AlteryxSDK_x64.lib(FieldDateTime.obj)' or at 'E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\AlteryxSDKBuilder.pdb'; linking object as if no debug info
+AlteryxSDK_x64.lib(FieldFixedDecimal.obj) : warning LNK4099: PDB 'AlteryxSDKBuilder.pdb' was not found with 'AlteryxSDK_x64.lib(FieldFixedDecimal.obj)' or at 'E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\AlteryxSDKBuilder.pdb'; linking object as if no debug info
+  SDKSampleEngine.vcxproj -> E:\Alteryx\Alteryx\APIs\AlteryxSDK\AlteryxPluginAPI\SDKSampleEngine\x64\Release\SDKSampleEngine.dll
